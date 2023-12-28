@@ -1,4 +1,4 @@
-package com.rhappdeveloper.breaktime
+package com.rhappdeveloper.breaktimev2
 
 import org.junit.Test
 

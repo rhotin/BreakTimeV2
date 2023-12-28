@@ -1,4 +1,4 @@
-package com.rhappdeveloper.breaktime.ui.theme
+package com.rhappdeveloper.breaktimev2.ui.theme
 
 import android.app.Activity
 import android.os.Build

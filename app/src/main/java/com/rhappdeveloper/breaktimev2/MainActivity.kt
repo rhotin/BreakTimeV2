@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
 
-package com.rhappdeveloper.breaktime
+package com.rhappdeveloper.breaktimev2
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -15,8 +15,8 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.rhappdeveloper.breaktime.ui.navigation.AppNavigationGraph
-import com.rhappdeveloper.breaktime.ui.theme.BreakTimeTheme
+import com.rhappdeveloper.breaktimev2.ui.navigation.AppNavigationGraph
+import com.rhappdeveloper.breaktimev2.ui.theme.BreakTimeTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

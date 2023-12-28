@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rhappdeveloper.breaktime"
+    namespace = "com.rhappdeveloper.breaktimev2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.rhappdeveloper.breaktime"
+        applicationId = "com.rhappdeveloper.breaktimev2"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

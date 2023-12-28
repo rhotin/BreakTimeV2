@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BreakTime"
+rootProject.name = "BreakTimeV2"
 include(":app")
  

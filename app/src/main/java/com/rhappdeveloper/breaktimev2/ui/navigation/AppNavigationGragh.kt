@@ -1,11 +1,11 @@
-package com.rhappdeveloper.breaktime.ui.navigation
+package com.rhappdeveloper.breaktimev2.ui.navigation
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.rhappdeveloper.breaktime.ui.screens.HomeScreen
+import com.rhappdeveloper.breaktimev2.ui.screens.HomeScreen
 
 @Composable
 fun AppNavigationGraph(innerPadding: PaddingValues) {

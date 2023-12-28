@@ -1,4 +1,4 @@
-package com.rhappdeveloper.breaktime.ui.theme
+package com.rhappdeveloper.breaktimev2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.rhappdeveloper.breaktime.ui.screens
+package com.rhappdeveloper.breaktimev2.ui.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
